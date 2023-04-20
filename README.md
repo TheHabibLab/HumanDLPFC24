@@ -6,7 +6,9 @@ Cite: https://doi.org/10.1101/2020.12.22.424084
 1. To run the mediation analysis linking cell populations to disease cascde use the following code and follow the documentation within the code:
 scRNA_n24_YangHS_16AUG2021_edit29MAR2023.R
 
-2. To run the cellular community analysis run the following:
+2. The code for the CelMod algorithm can be found here : https://github.com/MenonLab/Celmod
+
+3. To run the cellular community analysis run the following:
 Use the example input that can be found in the compressed folder: input_for_frequencies.zip
 
 There are 2 main functions: 
