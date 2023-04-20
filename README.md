@@ -1,6 +1,7 @@
 # HumanDLPFC24
 A cellular map of the DLPFC brain region and associations to Alzheimer's disease and cellular communities, from single nucleus RNA-seq of 
 24 individuals and bulk RNA profiles of 640 individuals with estimated cellular compositions by the CelMod algorithm.
+Cite: https://doi.org/10.1101/2020.12.22.424084
 
 1. To run the mediation analysis linking cell populations to disease cascde use the following code and follow the documentation within the code:
 scRNA_n24_YangHS_16AUG2021_edit29MAR2023.R
